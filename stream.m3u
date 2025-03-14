@@ -1,0 +1,3 @@
+#EXTM3U  
+#EXTINF:-1 tvg-id="yourchannel" tvg-name="Your Channel" tvg-logo="https://yourusername.github.io/yourgithubpagesrepo/logo.png", My Channel  
+https://yourusername.github.io/yourgithubpagesrepo/stream.mp4
